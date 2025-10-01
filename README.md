@@ -20,4 +20,4 @@ By automating this workflow, the project facilitates:
 *   **Efficiency:** Frees up staff (like Sandra) to focus on data analysis rather than data entry.
 
 ---
-*This repository contains all code, documentation, and deliverables for the "Server and Database Commands" challenge.*
+*This repository contains all code, documentation, and deliverables for the "Server and Database Commands" challenge. in the file "API_Technical_Report.md"*
